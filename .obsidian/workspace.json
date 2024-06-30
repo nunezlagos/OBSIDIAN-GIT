@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programing/P1 Lenguages/P2.1 JS/1 Ternarios JavaScript.md",
+                "file": "Cybersecurity/Cybersecurity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programing/P1 Lenguages/P2.1 JS/1 Ternarios JavaScript.md",
+                "file": "Cybersecurity/Cybersecurity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programing/P1 Lenguages/P2.1 JS/1 Ternarios JavaScript.md"
+                "file": "Cybersecurity/Cybersecurity.md"
               }
             }
           }
@@ -171,14 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8be644af8dab42ff",
+  "active": "d2d8f5603b8dbdaa",
   "lastOpenFiles": [
+    "Programing/P1 Lenguages/P2.1 JS/1 Ternarios JavaScript.md",
     "OBSIDIAN-GIT",
     "Programing/P1 Lenguages/P1.1 Python/1 Ternarios Python3.md",
     "Programing/P0 Index/1.1 Index.md",
     "Cybersecurity/C0 Index/1.1 Index.md",
     "Cybersecurity/Cybersecurity.md",
-    "Programing/P1 Lenguages/P2.1 JS/1 Ternarios JavaScript.md",
     "Programing/Programing.md",
     "Cybersecurity/C1 Capture The Flag/HackTheBox/Untitled 2.md",
     "Programing/P0 Index",
@@ -199,7 +199,6 @@
     "Cybersecurity/C1 Capture The Flag",
     "Cybersecurity/C1 Capture The Flag/TryHackMe",
     "Cybersecurity/C1 Capture The Flag/HackTheBox",
-    "Programación/Herramientas web",
     "Welcome.md",
     "create a link.md"
   ]
